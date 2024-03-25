@@ -1,0 +1,23 @@
+{
+  "name": "@muhammadzahid_aliwaris/cli-number-guessing-game",
+  "version": "1.0.2",
+  "description": "",
+  "main": "cligame.js",
+  "type": "module",
+  "bin": "cligame.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@muhammadzahid_aliwaris/cli-number-guessing-game": "^1.0.2",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
